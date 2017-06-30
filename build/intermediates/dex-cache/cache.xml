@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/maxru/Dropbox/School/CS4540/NewsApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="49f6a95401cd461526b5a5a9a5b31e4a9036b10b">
+        <dex dex="/Users/maxru/Dropbox/School/CS4540/NewsApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e9c0cfab8d04084cc77d497b470ba07a4d9c06e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxru/Dropbox/School/CS4540/NewsApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/maxru/Dropbox/School/CS4540/NewsApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8fac001b0b901a5b517a704fde05eb433a61f5c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxru/.android/build-cache/48908ae119915236de95c27a18800b36b3bc001c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/maxru/Dropbox/School/CS4540/NewsApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_55a674dda4641a34e80a5324e51d641b30f93994/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxru/.android/build-cache/6e70f16e000c3912083eb57db0ac0712ba5b6700/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/maxru/Dropbox/School/CS4540/NewsApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d1ffd56758031bc10d003c917e2fd313b63e57c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxru/.android/build-cache/c929e8e0347c8a64911d11510486b0c77b8e16c9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/maxru/Dropbox/School/CS4540/NewsApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_983da0a4834917f605b1bcd64f08a2ce8f4f952b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxru/.android/build-cache/56d83b49cbe5fa3e9da325e26c0bf43ae360faf6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/maxru/Dropbox/School/CS4540/NewsApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_54e60880a7525c9174f0bdc8f6143e59a11f016e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxru/.android/build-cache/a6f247c93080ae6cd0d755ffbd51e95d4d2180d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/maxru/Dropbox/School/CS4540/NewsApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_58d84989374798d962d30bb7d09c027b01187513/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxru/.android/build-cache/20fc8e7be55a9ec358c1f4bb9e5a3b7bed3aeff0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/maxru/Dropbox/School/CS4540/NewsApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0438a02735cdce3f3ccba9fa7d0e06981c5e39f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxru/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/maxru/Dropbox/School/CS4540/NewsApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_02bcd398f3bd8204244e4a84f9c5a409c21fe1d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxru/.android/build-cache/49572cb5eb286625f8129b542cdd31883abd4311/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/maxru/Dropbox/School/CS4540/NewsApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c3ed5582fe5c775503a7adb0cd96beee8038ce57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxru/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/maxru/Dropbox/School/CS4540/NewsApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_4535f761bb7aab22f317b6f1fe467edbf9cc9532/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxru/.android/build-cache/11aafad487254f022c7ac0b8649c89e4a04ac874/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/maxru/Dropbox/School/CS4540/NewsApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7f409fe5045419e41333dd3b10b091a1453cf772/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxru/.android/build-cache/462459003835cccb990fe680f7c8c1471d35b717/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/maxru/Dropbox/School/CS4540/NewsApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2aa472f16b9562c80fd23d9684755b98cc5e4828/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maxru/.android/build-cache/80ef73beff955e3c53a52ac4a06e5aa059415645/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/maxru/Dropbox/School/CS4540/NewsApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a74295918e6ce4d94b71a999b0c33ea5fd0af72d/classes.dex" />
+    </item>
+
+</items>
